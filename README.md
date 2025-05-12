@@ -28,6 +28,7 @@ Java JDK 8+
 Any Java IDE (e.g., IntelliJ IDEA, Eclipse)
 
  How to Run
+ 
 Open the project in your IDE.
 
 Run the Main class.
